@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "cmd-ts": "^0.13.0",
+    "manifold-3d": "^2.3.1",
+    "ts-node": "^10.9.2"
+  }
+}

@@ -1,0 +1,32 @@
+
+{
+  "name": "B-minor, short-body, plated flute",
+  "description": ["Mark Chu-Carroll's octagonal bodied B-minor flute with",
+  "cross fingerings."],
+  "outer_facets": 8,
+  "outer_body":  [
+      { "height": 116.6, "lower_diam": 24.6,  "upper_diam": 24.6},
+      { "height": 147.9, "lower_diam": 24.6,  "upper_diam": 29.0},
+      { "height": 35.2, "lower_diam": 29.0,  "upper_diam": 29.0}
+    ],
+  "inner_bore": [
+    { "height": 115.6, "lower_diam": 10.1, "upper_diam": 10.1},
+    { "height": 29.5, "lower_diam": 10.1, "upper_diam": 11.7},
+    { "height": 102.2, "lower_diam": 11.7, "upper_diam": 13.4},
+    { "height": 3.1, "lower_diam": 13.4, "upper_diam": 16.0},
+    { "height": 17.8, "lower_diam": 16.0, "upper_diam": 16.0},
+    { "height": 3.5, "lower_diam": 16.0, "upper_diam": 13.4},
+    { "height": 43.7, "lower_diam": 13.4, "upper_diam": 13.4}
+  ],
+  "holes": [
+    { "elev": 49.5, "diam": 9.0},
+    { "elev": 72.8, "diam": 6.2},
+    { "elev": 97.8, "diam": 10.0},
+    { "elev": 122.5, "diam": 8.6},
+    { "elev": 137.5, "diam": 6.0},
+    { "elev": 152.5, "diam": 9.5}
+  ],
+
+
+  "emb": { "diam": 10.0, "elev":  294.7, "eccentricity": 1.2 }
+}
